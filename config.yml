@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Tecnoglass Infraestructura Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -143,7 +143,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
+    - name: Interfaces Publicas
       description: The main servers are located here.
       closed: true
     - name: Empty Category
@@ -159,9 +159,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Gateway
-      category: North Coast
+      category: Interfaces Publicas
     - name: Backup Gateway
-      category: North Coast
+      category: Interfaces Publicas
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
