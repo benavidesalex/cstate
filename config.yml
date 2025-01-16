@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://tecnoglass.com
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -165,7 +165,7 @@ params:
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://example.com/
+      link: https://tecnoglass.com/
     - name: API
       description: The guts of the application.
       category: Uncategorized
